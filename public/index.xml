@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trangalladas</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Trangalladas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 29 Aug 2020 16:16:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PrimeiroPost</title>
+      <link>http://example.org/posts/primeiropost/</link>
+      <pubDate>Sat, 29 Aug 2020 16:16:32 +0200</pubDate>
+      
+      <guid>http://example.org/posts/primeiropost/</guid>
+      <description>Este é un primeiro post para probar a páxina e ver como vai.</description>
+    </item>
+    
+  </channel>
+</rss>
