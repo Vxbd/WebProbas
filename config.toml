@@ -14,3 +14,7 @@ theme = "ananke"
   github = ""
   gitlab = ""
   linkedin = ""
+  
+##Apariencia 
+ featured_image =  "/images/venta.jpg"
+ background_color_class = "bg-black"
